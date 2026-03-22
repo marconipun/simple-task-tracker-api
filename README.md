@@ -18,7 +18,7 @@ The purpose of this project is to practice building REST APIs and understand how
 - REST API
 
 ## How to Run
-1. Clone the repository
+1. Clone the repository : https://github.com/marconipun/simple-task-tracker-api
 2. Run:
    mvnw spring-boot:run
 3. Open:
