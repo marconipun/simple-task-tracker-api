@@ -5,6 +5,7 @@ This is a simple backend project built using Java and Spring Boot.
 The purpose of this project is to practice building REST APIs and understand how backend applications are structured using controller, service, and model layers.
 
 
+
 ## Features
 - Create tasks
 - View all tasks
@@ -27,3 +28,10 @@ The purpose of this project is to practice building REST APIs and understand how
 ## Notes
 - Data is stored in memory (ArrayList)
 - Data resets when the application restarts
+
+## Next Steps
+
+As a next step, I plan to extend this project by integrating a database (H2) instead of using in-memory storage.
+
+This will allow the data to persist even after restarting the application and will help me gain hands-on experience with Spring Data JPA and database integration.
+
